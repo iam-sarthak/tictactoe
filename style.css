@@ -1,0 +1,59 @@
+.game {
+    border: solid;
+    border-color: black;
+    border-width: 10px;
+    display: block;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+}
+
+.part {
+    border: solid;
+    border-color: black;
+    border-width: 10px;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+img {
+    display: none;
+    width: 100px;
+}
+.heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.score{
+    text-align: center;
+    
+}
+.score h2{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 2px;
+    margin-top: 20px;
+}
+.score table{
+    margin: auto;
+    font-size: 2rem;
+    border: 2px solid black;
+    
+}
+td,th,tr{
+    border: 2px solid black;
+    padding: 5px;
+}
+.btn{
+    text-align: center;
+    margin: 20px;
+}
+.butn{
+    height: 40px;
+    width: 100px;
+    margin: 20px;
+}
